@@ -19,6 +19,7 @@ a,ul,li{
 
 
 /*===== Font and typography =====*/
+
 body{
     font-family: 'JetBrains Mono', monospace;
 }
@@ -61,4 +62,5 @@ header{
 header img{
     height: 5rem;
 }
+
 
